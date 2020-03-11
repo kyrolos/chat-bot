@@ -1,0 +1,12 @@
+user=Joe
+bot=LulaBot
+ 
+user: help
+bot: [Typing][Delay=3000][suggestions=I wonna know about a topic|I would kie to know when we will see el-Zamalek again|Do we hate el-Ahly?]
+ 
+user: Do we hate el-Ahly?.
+ 
+bot: Yes, Yes we do.
+ 
+user: thanks
+bot: my pleasure

@@ -1,0 +1,12 @@
+user=Joe
+bot=LulaBot
+ 
+user:I wonna know about a topic
+bot:ok that's only for training purposes and we don't yet have an answer for that topic
+ 
+user:ok
+ 
+bot:ok
+ 
+user:thanks
+bot:my pleasure
